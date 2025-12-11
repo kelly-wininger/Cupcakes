@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+
+<title>How To Make Cupcakes</title>
+<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>How To Make Cupcakes</title>
+	<link rel="stylesheet" href="style.css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+<ul>
+  <li><a href="index.html">The History Of Cupcakes</a></li>
+  <li><a href="page2">How To Make Cupcakes</a></li>
+  <li><a href="page3">Cupcake Image Gallery</a></li>
+</ul>
+<body style="background-color:rgb(255, 225, 181);">
+<h2 id="heading">How To Make Cupcakes</h2>
+<img id="cupcakeimage" src="img/cupcake2.png" alt="Cupcake Making Image" width="400" height="300">
+<p id="para1">Making perfect vanilla cupcakes from scratch is a rewarding baking project. The key to a moist, flavorful crumb lies in using quality ingredients and following the steps carefully. This recipe yields approximately 12 to 15 standard-sized cupcakes and requires about 20 minutes of preparation time and 18-22 minutes of baking time. The result is a light, fluffy, and tender treat that serves as a perfect canvas for your favorite frosting.
+To begin, ensure all your cold ingredients—specifically the eggs, butter, and milk—are at room temperature. This is a critical step that allows the batter to emulsify properly, leading to a smooth, uniform texture in the final product. While these ingredients are warming up, you can preheat your oven to 350°F (175°C) and line a standard muffin tin with paper liners.
+Gather your dry ingredients in a medium bowl: 1 ½ cups of all-purpose flour, 1 cup of granulated sugar, 1 tablespoon of baking powder, and a ½ teaspoon of salt. Whisk these together thoroughly to combine them and remove any lumps. In a separate, larger bowl, using an electric mixer on medium-high speed, cream together 1 stick (½ cup) of unsalted butter that has been softened to room temperature until it is pale and fluffy, a process that usually takes two to three minutes. Gradually beat in the dry ingredients, mixing on a low speed until just combined. Be careful not to overmix; overdeveloping the gluten will result in tough, dense cupcakes.
+In a small bowl or measuring cup, gently whisk 2 large eggs until uniform. With the mixer still on low speed, stream the eggs in one at a time, ensuring each is fully incorporated before adding the next. Once the eggs are in, increase the speed to medium and beat for another minute to aerate the batter slightly. Now, it is time to introduce the flavors and moisture. In a separate container, combine ½ cup of whole milk (or buttermilk for an extra tender crumb) with 2 teaspoons of pure vanilla extract. With the mixer on low, slowly pour this wet mixture into the main batter in three stages, mixing just until the liquid disappears into the dough. Scrape down the sides of the bowl with a spatula as needed. The final batter should be smooth and light.
+Fill the prepared muffin liners about two-thirds full using a large spoon or an ice cream scoop to ensure even distribution. Avoid overfilling, which can cause the cupcakes to spill over the top of the tin during baking. Place the tin in the preheated oven on the middle rack. Bake for 18 to 22 minutes, or until the tops are set and a wooden skewer inserted into the center of a cupcake comes out clean. The cupcakes should be a light golden brown and bounce back slightly when gently touched.
+Remove the tin from the oven and allow the cupcakes to cool in the pan for five to ten minutes before transferring them to a wire cooling rack to cool completely. They must be fully cooled before frosting; otherwise, the frosting will melt right off. Once cool, pipe or spread your favorite buttercream or cream cheese frosting on top and decorate as desired. Enjoy these fluffy, homemade vanilla cupcakes as a delightful treat for any occasion. This recipe proves that sometimes, the simple classics are the most delicious.</p>
+</head>
+  <body>
